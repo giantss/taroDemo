@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "fangzheng";
+  src: url("./assets/font/fangzheng.ttf"); }
+.fangzheng {
+  font-family: fangzheng;
+  font-size: 24Px;
+  color: gold; }
+
+/*# sourceMappingURL=app.css.map */
